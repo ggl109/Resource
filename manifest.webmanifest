@@ -1,0 +1,19 @@
+{
+  "name": "347 Brain OS",
+  "short_name": "347 Brain OS",
+  "description": "适合手机使用的15天湖南师大347学习冲刺应用",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff8f4",
+  "theme_color": "#fff8f4",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
